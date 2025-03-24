@@ -1,2 +1,2 @@
 # SAII-CLDM
-《Seismic Acoustic Impedance Inversion through Conditional Latent Diffusion Model》开源代码
+the codes of《Seismic Acoustic Impedance Inversion through Conditional Latent Diffusion Model》is coming!
